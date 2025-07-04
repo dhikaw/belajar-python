@@ -1,0 +1,10 @@
+n = int(input("Masukkan Angka n : "))
+hasil = n % 2
+
+if hasil == 1:
+    for i in range(1,n+1, 2):
+        print(i)
+else:
+    print("Bukan Ganjil")
+
+print()
