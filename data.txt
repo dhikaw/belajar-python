@@ -1,0 +1,4 @@
+nama,umur
+Andi,20
+Budi,22
+Cici,19
